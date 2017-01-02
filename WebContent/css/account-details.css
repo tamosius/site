@@ -1,0 +1,18 @@
+
+#account-table .row-name{
+	
+	font-size: 20px;
+	color: #2a1b99;
+}
+#account-table input, #account-table #programme, #account-table #start-end-date,
+#account-table #date-joined{
+	
+	font-size: 20px;
+	color: #63054c;
+	background: transparent;
+}
+
+.jumbotron img{
+	
+	width: 200px;
+}

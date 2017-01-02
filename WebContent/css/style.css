@@ -5346,8 +5346,36 @@ table.no-border td {
  	font-weight: bold;
  	font-style: italic;
  	margin-right: 5px;
- 	
  }
+ .footer-bottom span, tbody span{
+	
+	color: #660000;
+	font-style: italic;
+	font-size: 22px;
+	font-weight: bold;
+	
+	margin-right: 7px;
+}
+
+/*---- 'N / A', 'Pay as You Go', etc. VALUES FONTS -----------------------------*/
+.na-value{
+	
+	color: #ad0630;
+	font-size: 17px;
+}
+.pay-as-you-go{
+	
+	color: #63030b;
+}
+.present{
+	
+	color: #084c04;
+	font-size: 19px;
+}
+
+
+
+
  
  
  

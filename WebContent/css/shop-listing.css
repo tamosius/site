@@ -1,0 +1,35 @@
+/*-------- SHOP PRODUCTS DISPLAYED ----------------------------------------------------*/
+.shop-listing .row .product-image{
+	
+	width: 110px;
+	height: 110px;
+}
+.shop-listing .row .name, .shop-listing .row .manufacturer{
+	
+	color: #224d91;
+}
+.shop-listing .row .price{
+	
+	color: #065104;
+}
+.shop-listing .row .units{
+	
+	color: #032303;
+}
+
+/*-------- CATEGORIES IN RIGHT-SIDE ---------------------------------------------------*/
+.list #protein, .list #vitamins, .list #food-supplement, .list #accessories,
+.list #gym-equipment, .list #all-categories{
+	
+	color: #2657a5;
+	
+	font-size: 15px;
+	transition: font-size .5s;
+}
+
+.list #protein:hover, .list #vitamins:hover, .list #food-supplement:hover, .list #accessories:hover,
+.list #gym-equipment:hover, .list #all-categories:hover{
+	
+	color: #061328;
+	font-size: 16px;
+}
